@@ -1,11 +1,14 @@
 # Common lisp CRUD  
 My trying into JSON CRUD API in Super Cute Language
 
-Simple note json api app which could perform following things:
-> Create new note
-> Read all notes from DB or read note by id
-> Update text of note selected by id
-> Delete note from database
+### Simple note json api app which could do following things:
+ > Create new note
+ 
+ > Read all notes from DB or read note by id
+ 
+ > Update text of note selected by id
+ 
+ > Delete note from database
 
 ## Dependences: 
 * [Mito](https://github.com/fukamachi/mito)
